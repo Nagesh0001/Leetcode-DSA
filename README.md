@@ -16,6 +16,7 @@ DSA Practice
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0009-palindrome-number) |
 ## Dynamic Programming
 |  |

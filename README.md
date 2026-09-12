@@ -8,6 +8,7 @@ DSA Practice
 | ------- |
 | [0001-two-sum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
@@ -58,4 +59,8 @@ DSA Practice
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

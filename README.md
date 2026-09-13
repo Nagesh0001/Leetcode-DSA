@@ -10,6 +10,7 @@ DSA Practice
 | [0014-longest-common-prefix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0066-plus-one) |
@@ -31,6 +32,7 @@ DSA Practice
 | [0007-reverse-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
@@ -169,5 +171,6 @@ DSA Practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

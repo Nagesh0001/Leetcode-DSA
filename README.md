@@ -27,6 +27,7 @@ DSA Practice
 | [0007-reverse-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ DSA Practice
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Tree
 |  |
@@ -141,4 +143,8 @@ DSA Practice
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

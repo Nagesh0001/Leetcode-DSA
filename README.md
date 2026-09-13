@@ -27,9 +27,11 @@ DSA Practice
 | [0007-reverse-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
@@ -135,4 +137,8 @@ DSA Practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

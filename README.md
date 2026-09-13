@@ -48,6 +48,7 @@ DSA Practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -88,4 +89,16 @@ DSA Practice
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

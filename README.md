@@ -20,6 +20,7 @@ DSA Practice
 | [0075-sort-colors](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -123,6 +124,7 @@ DSA Practice
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ DSA Practice
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,4 +185,12 @@ DSA Practice
 | ------- |
 | [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

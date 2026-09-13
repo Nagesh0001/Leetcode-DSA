@@ -10,6 +10,7 @@ DSA Practice
 | [0014-longest-common-prefix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -69,6 +70,7 @@ DSA Practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -108,4 +110,8 @@ DSA Practice
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

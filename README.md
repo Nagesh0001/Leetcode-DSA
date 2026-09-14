@@ -25,6 +25,7 @@ DSA Practice
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0454-4sum-ii) |
@@ -70,6 +71,7 @@ DSA Practice
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -144,6 +146,7 @@ DSA Practice
 | [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |

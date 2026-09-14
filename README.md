@@ -37,6 +37,7 @@ DSA Practice
 | [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ DSA Practice
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
 ## Math
 |  |
 | ------- |
@@ -279,6 +281,7 @@ DSA Practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
+| [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

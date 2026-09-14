@@ -33,6 +33,7 @@ DSA Practice
 | [0929-unique-email-addresses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ DSA Practice
 | [0560-subarray-sum-equals-k](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0929-unique-email-addresses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Math
 |  |

@@ -25,6 +25,7 @@ DSA Practice
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
+| [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ DSA Practice
 | [0013-roman-to-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ DSA Practice
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Sliding Window
 |  |

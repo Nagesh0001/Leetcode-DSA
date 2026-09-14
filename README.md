@@ -34,6 +34,7 @@ DSA Practice
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@ DSA Practice
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -232,6 +234,7 @@ DSA Practice
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
 |  |
 | ------- |
@@ -272,4 +275,8 @@ DSA Practice
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

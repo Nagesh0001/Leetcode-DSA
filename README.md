@@ -21,6 +21,7 @@ DSA Practice
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 ## Hash Table
@@ -47,6 +48,7 @@ DSA Practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |

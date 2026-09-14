@@ -27,6 +27,7 @@ DSA Practice
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -171,6 +172,7 @@ DSA Practice
 | ------- |
 | [0035-search-insert-position](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -263,11 +265,13 @@ DSA Practice
 | ------- |
 | [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search Tree
 |  |
 | ------- |

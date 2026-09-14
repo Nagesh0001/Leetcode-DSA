@@ -43,6 +43,7 @@ DSA Practice
 | [0013-roman-to-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -112,6 +113,7 @@ DSA Practice
 | [0021-merge-two-sorted-lists](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +129,7 @@ DSA Practice
 | [0042-trapping-rain-water](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
@@ -261,4 +264,8 @@ DSA Practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

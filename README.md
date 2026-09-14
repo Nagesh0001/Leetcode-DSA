@@ -30,6 +30,7 @@ DSA Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -58,10 +59,12 @@ DSA Practice
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |

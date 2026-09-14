@@ -89,6 +89,7 @@ DSA Practice
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0929-unique-email-addresses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
@@ -110,6 +111,7 @@ DSA Practice
 | [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |

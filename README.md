@@ -85,6 +85,7 @@ DSA Practice
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -129,12 +130,14 @@ DSA Practice
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -142,11 +145,13 @@ DSA Practice
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Sorting
 |  |
 | ------- |

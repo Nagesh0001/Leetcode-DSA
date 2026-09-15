@@ -35,6 +35,7 @@ DSA Practice
 | [0560-subarray-sum-equals-k](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
@@ -273,6 +274,7 @@ DSA Practice
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
@@ -282,6 +284,7 @@ DSA Practice
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |

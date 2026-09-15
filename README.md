@@ -43,6 +43,7 @@ DSA Practice
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ DSA Practice
 | [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ DSA Practice
 | [0424-longest-repeating-character-replacement](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Trie
 |  |
 | ------- |

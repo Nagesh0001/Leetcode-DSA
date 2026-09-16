@@ -80,6 +80,7 @@ DSA Practice
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
@@ -100,6 +101,7 @@ DSA Practice
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |

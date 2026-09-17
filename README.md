@@ -55,6 +55,7 @@ DSA Practice
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@ DSA Practice
 | [0168-excel-sheet-column-title](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -167,6 +169,7 @@ DSA Practice
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
 ## String Matching
@@ -345,6 +348,7 @@ DSA Practice
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 ## Queue
 |  |
 | ------- |

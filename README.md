@@ -55,6 +55,7 @@ DSA Practice
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -106,6 +107,7 @@ DSA Practice
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -118,6 +120,7 @@ DSA Practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -180,6 +183,7 @@ DSA Practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -188,6 +192,7 @@ DSA Practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,6 +294,7 @@ DSA Practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Simulation
 |  |
@@ -353,4 +359,12 @@ DSA Practice
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

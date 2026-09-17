@@ -71,6 +71,7 @@ DSA Practice
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ DSA Practice
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +127,7 @@ DSA Practice
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
 | ------- |

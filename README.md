@@ -35,6 +35,7 @@ DSA Practice
 | [0496-next-greater-element-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0929-unique-email-addresses) |
@@ -206,6 +207,7 @@ DSA Practice
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
@@ -372,4 +374,8 @@ DSA Practice
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ DSA Practice
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
@@ -127,6 +128,7 @@ DSA Practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -181,6 +183,7 @@ DSA Practice
 | [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -208,6 +211,7 @@ DSA Practice
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -271,6 +275,7 @@ DSA Practice
 | [0242-valid-anagram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
@@ -380,4 +385,8 @@ DSA Practice
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

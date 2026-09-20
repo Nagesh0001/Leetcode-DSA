@@ -91,6 +91,7 @@ DSA Practice
 | [0171-excel-sheet-column-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@ DSA Practice
 | [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 ## String Matching
 |  |
@@ -211,6 +213,7 @@ DSA Practice
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |

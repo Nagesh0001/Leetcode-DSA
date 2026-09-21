@@ -48,6 +48,7 @@ DSA Practice
 | [1207-unique-number-of-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2347-best-poker-hand](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2347-best-poker-hand) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
@@ -222,6 +223,7 @@ DSA Practice
 | [0875-koko-eating-bananas](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Tree
 |  |
 | ------- |

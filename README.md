@@ -26,6 +26,7 @@ DSA Practice
 | [0118-pascals-triangle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
@@ -320,6 +321,7 @@ DSA Practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Simulation

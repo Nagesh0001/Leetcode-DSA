@@ -7,6 +7,7 @@ DSA Practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0027-remove-element) |
@@ -184,6 +185,7 @@ DSA Practice
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -363,6 +365,7 @@ DSA Practice
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |

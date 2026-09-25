@@ -1,56 +1,55 @@
-// //One pass solution
+//.Brute Force Approach. T.C :- O(nlogn), S.C :- O(1)
 // class Solution {
 // public:
-//     void sortColors(vector<int>& nums){
-//         int lo = 0;
-//         int mid = 0;
-//         int hi = nums.size() - 1;
-// //(1). Mid ke baare me socho
-// //(2). 0 to lo-1->0, hi+1->2
-// //(3). lo to mid-1->1
-//         while(mid<=hi){
-//             if(nums[mid] == 2){
-//                 int temp = nums[mid];
-//                 nums[mid] = nums[hi];
-//                 nums[hi] = temp;
-//                 hi--;
-//             }
-//             else if(nums[mid] == 0){
-//                 int temp = nums[mid];
-//                 nums[mid] = nums[lo];
-//                 nums[lo] = temp;
-//                 lo++;
-//                 mid++;
-//             }
-//             else {
-//                 mid++;
-//             }
-//         }
-//         return;
+//     void sortColors(vector<int>& nums) {
+//         sort(nums.begin(), nums. end());
 //     }
-// };
+//  };
 
 
-//. Two Pass Solution.
+// //.Optimised Approach. T.C :- O(n). S.C :- O(1)
+// class Solution {
+// public:
+//     void sortColors(vector<int>& nums) {
+//         int n = nums.size();
+//         int count0 = 0, count1 = 0, count2 = 0;
+//         for(int i=0; i<n; i++){
+//             if(nums[i] == 0) count0++;
+//             else if(nums[i] == 1) count1++;
+//             else count2++;
+//         }
+//         int idx = 0;
+//         for(int i=0; i<count0; i++){
+//             nums[idx++] = 0;
+//         }
+//         for(int i=0; i<count1; i++){
+//             nums[idx++] = 1;
+//         }
+//         for(int i=0; i<count2; i++){
+//             nums[idx++] = 2;
+//         }
+//     }
+//  };
+
+
+//.Optimal Approach. T.C :- O(n). S.C :- O(1)
 class Solution {
 public:
-    void sortColors(vector<int>& nums){
-        int n = nums.size();
-        int noz = 0;
-        int noo = 0;
-        int notw = 0;
-
-        for(int i=0; i<n; i++){
-            if(nums[i]==0) noz++;
-            else if(nums[i] == 1) noo++;
-            else notw++;
+    void sortColors(vector<int>& nums) {
+    int n = nums.size();
+    int low = 0, mid = 0, high = n - 1;
+    while(mid <= high){
+        if(nums[mid] == 0){
+            swap(nums[low], nums[mid]);
+            mid++; low++;
         }
-        // Fill
-        for(int i=0; i<n; i++){
-            if(i<noz) nums[i] = 0;
-            else if(i<(noz + noo)) nums[i] = 1;
-            else nums[i] = 2;
+        else if(nums[mid] == 1){
+            mid++;
         }
-        return;
+        else{
+            swap(nums[high], nums[mid]);
+            high--;
+        }
     }
+  }
 };

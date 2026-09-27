@@ -23,6 +23,7 @@ DSA Practice
 | [0053-maximum-subarray](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
@@ -230,6 +231,7 @@ DSA Practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -351,6 +353,7 @@ DSA Practice
 | ------- |
 | [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |

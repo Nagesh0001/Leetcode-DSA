@@ -26,6 +26,7 @@ DSA Practice
 | [0066-plus-one](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -129,6 +130,7 @@ DSA Practice
 | [0049-group-anagrams](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
@@ -261,6 +263,7 @@ DSA Practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -358,6 +361,7 @@ DSA Practice
 | [0048-rotate-image](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
@@ -428,4 +432,8 @@ DSA Practice
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

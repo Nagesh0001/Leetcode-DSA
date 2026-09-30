@@ -1,39 +1,41 @@
+//.Brute Force Approach. T.C :- O(n^2), S.C :- O(1)
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        map<int,int>m;
-        int prefixsum = 0;
-        m[0] = 1;
-        int count = 0; prefixsum = 0;
-        for(int i=0; i<nums.size(); i++){
-            prefixsum+=nums[i];
-            if(m.find(prefixsum-k) != m.end()){
-                count+=m[prefixsum - k];
+        int n = nums.size();
+        int count = 0;
+        for(int i=0; i<n; i++){
+            int sum = 0;
+            for(int j=i; j<n; j++){
+                sum += nums[j];
+                if(sum == k) count++;
             }
-            m[prefixsum]++;
         }
         return count;
     }
 };
 
 
-
-
-
-// //.Prefix Sum + Hash Map
+// //.Optimised Approach. T.C :- O(n). S.C :- O(n)
 // class Solution {
 // public:
-//     int subarraySum(vector<int>& nums, int k) {
-//         unordered_map<int, int> m;
-//          m[0] = 1; 
-//         int prefixSum = 0;
+//     int subarraySum(vector<int>& arr, int k) {
+//         int n = arr.size();
 //         int count = 0;
-//         for(int i = 0; i < nums.size(); i++){
-//             prefixSum += nums[i];
-//             if(m.find(prefixSum - k) != m.end()){
-//                 count += m[prefixSum - k];
+//         vector<int> prefixSum(n, 0);
+//         prefixSum[0] = arr[0];
+//         for(int i = 1; i < n; i++) {
+//             prefixSum[i] = prefixSum[i - 1] + arr[i];
+//         }
+//         unordered_map<int, int> m;
+//         for(int j = 0; j < n; j++) {
+//             if(prefixSum[j] == k)
+//                 count++;
+//             int val = prefixSum[j] - k;
+//             if(m.find(val) != m.end()) {
+//                 count += m[val];
 //             }
-//             m[prefixSum]++;
+//             m[prefixSum[j]]++;
 //         }
 //         return count;
 //     }

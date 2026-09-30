@@ -41,6 +41,7 @@ DSA Practice
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
@@ -208,6 +209,7 @@ DSA Practice
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
@@ -239,6 +241,7 @@ DSA Practice
 | [0069-sqrtx](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
@@ -348,6 +351,7 @@ DSA Practice
 | [0067-add-binary](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Simulation
 |  |
@@ -415,6 +419,7 @@ DSA Practice
 | [0141-linked-list-cycle](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
@@ -439,4 +444,8 @@ DSA Practice
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0079-word-search) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

@@ -48,6 +48,7 @@ DSA Practice
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
@@ -249,6 +250,7 @@ DSA Practice
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0704-binary-search) |
@@ -389,6 +391,7 @@ DSA Practice
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -460,4 +463,24 @@ DSA Practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->

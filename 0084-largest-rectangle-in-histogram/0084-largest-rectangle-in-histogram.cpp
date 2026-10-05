@@ -1,44 +1,64 @@
-// //.Brute Force Approach. T.C = O(n^2), S.C = O(1), T.L.E
-// class Solution{
+// //.Brute Force Approach. T.C :- O(N^2). S.C :- O(1)
+// class Solution {
 // public:
-//     int largestRectangleArea(vector<int>& heights) {
-//         int n = heights.size();
-//         int maxArea = 0;
-//         for(int i=0; i<n; i++){
-//             int minHeight = heights[i];
-//             for(int j=i; j<n; j++){
-//                 minHeight = min(minHeight, heights[j]);
-//                 int width = j - i + 1;
-//                 int area = minHeight * width;
-//                 maxArea = max(maxArea, area);
+//     int largestRectangleArea(vector<int>& he) {
+//         int n = he.size();
+//         int maxArea = INT_MIN;
+//         for(int i = 0; i < n; i++) {
+//             int currHeight = he[i];
+//             int currArea = currHeight;
+//             // Check left side
+//             for(int left = i - 1; left >= 0; left--) {
+//                 if(he[left] < currHeight)
+//                     break;
+//                 currArea += currHeight;
 //             }
+//             // Check right side
+//             for(int right = i + 1; right < n; right++) {
+//                 if(he[right] < currHeight)
+//                     break;
+//                 currArea += currHeight;
+//             }
+//             maxArea = max(maxArea, currArea);
 //         }
 //         return maxArea;
 //     }
 // };
 
 
-
-//.Optimised Solution T.C = O(n), S.C = O(n)
-class Solution{
+//.Optimised Approach. T.C :- O(n), S.C :- O(n)
+class Solution {
 public:
-    int largestRectangleArea(vector<int>& heights){
-        stack<int> st;
+    int largestRectangleArea(vector<int>& heights) {
         int n = heights.size();
-        int maxArea = 0;
-        for(int i=0; i<=n; i++){
-            while(!st.empty() && (i==n || heights[st.top()]>=heights[i])){
-                int height = heights[st.top()];
-                st.pop();
-                int width;
-                if(st.empty())
-                    width = i;
-                else
-                    width = i - st.top() - 1;
-                maxArea = max(maxArea, height * width);
+        vector<int> left(n, 0);
+        vector<int> right(n, 0);
+        stack<int> s;
+        // Right Smaller
+        for(int i = n - 1; i >= 0; i--) {
+            while(s.size() > 0 && heights[s.top()] >= heights[i]) {
+                s.pop();
             }
-            st.push(i);
+            right[i] = s.empty() ? n : s.top();
+            s.push(i);
         }
-        return maxArea;
+        while(!s.empty()) {
+            s.pop();
+        }
+        // Left Smaller
+        for(int i = 0; i < n; i++) {
+            while(s.size() > 0 && heights[s.top()] >= heights[i]) {
+                s.pop();
+            }
+            left[i] = s.empty() ? -1 : s.top();
+            s.push(i);
+        }
+        int ans = 0;
+        for(int i = 0; i < n; i++) {
+            int width = right[i] - left[i] - 1;
+            int currArea = heights[i] * width;
+            ans = max(ans, currArea);
+        }
+        return ans;
     }
 };

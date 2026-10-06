@@ -43,6 +43,7 @@ DSA Practice
 | [0189-rotate-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -157,6 +158,7 @@ DSA Practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -335,6 +337,7 @@ DSA Practice
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 ## Quicksort
 |  |
 | ------- |
@@ -434,6 +437,7 @@ DSA Practice
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Rolling Hash
 |  |
@@ -450,6 +454,7 @@ DSA Practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
@@ -483,4 +488,8 @@ DSA Practice
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

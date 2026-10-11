@@ -154,6 +154,7 @@ DSA Practice
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -183,6 +184,7 @@ DSA Practice
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -380,6 +382,7 @@ DSA Practice
 | [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |

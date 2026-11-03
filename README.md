@@ -62,6 +62,7 @@ DSA Practice
 | [0861-score-after-flipping-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0896-monotonic-array) |
 | [0929-unique-email-addresses](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1002-find-common-characters](https://github.com/Nagesh0001/Leetcode-DSA/tree/master/1002-find-common-characters) |
